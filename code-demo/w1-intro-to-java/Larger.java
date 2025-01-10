@@ -1,4 +1,10 @@
 public class Larger {
+  /**
+   * return the larger of x and y
+   * @param x an int
+   * @param y an int
+   * @return the largerof x and y
+   */
   public static int larger(int x, int y) {
     if (x > y) {
       return x;

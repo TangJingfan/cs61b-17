@@ -1,3 +1,5 @@
+package homework.hw0.ex3;
+
 public class FindMax {
   public static int max(int[] m) {
     int max = 0;

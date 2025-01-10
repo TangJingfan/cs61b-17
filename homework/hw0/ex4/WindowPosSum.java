@@ -1,3 +1,5 @@
+package homework.hw0.ex4;
+
 public class WindowPosSum {
 
   public static void windowPosSum(int[] a, int n) {

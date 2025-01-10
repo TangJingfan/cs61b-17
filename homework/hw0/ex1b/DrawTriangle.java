@@ -1,3 +1,5 @@
+package homework.hw0.ex1b;
+
 public class DrawTriangle {
   public static void main(String[] args) { drawTriangle(10); }
 

@@ -1,3 +1,5 @@
+package homework.hw0.ex1a;
+
 public class DrawTriangle {
   public static void main(String[] args) {
     int layer = 5;

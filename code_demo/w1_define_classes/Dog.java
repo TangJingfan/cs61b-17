@@ -1,5 +1,7 @@
 public class Dog {
 
+  public Dog(int w) { weight = w; }
+
   public void makeNoise() {
     if (weight < 10) {
       System.out.println("yip!");

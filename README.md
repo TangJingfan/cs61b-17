@@ -1,2 +1,5 @@
-# cs61b-17
-This repo contains code demo, lab, homework, project in cs61b, 2017.
+# README
+
+## Introduction
+
+This repo records my learning experience of cs61b in 2025. Codes are split into several sections, including in-class code demo, project and homework.

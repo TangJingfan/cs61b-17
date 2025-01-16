@@ -24,3 +24,12 @@ hs_err_pid*
 replay_pid*
 
 skeleton-sp18
+
+audio/
+audio/*
+data/
+data/*
+examples/
+examples/*
+images/
+images/*
